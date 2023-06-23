@@ -1,0 +1,14 @@
+.top {
+   padding-top: 3em;
+   padding-bottom: 10em;
+   font-size: 2em;
+}
+
+span{
+   color: rgb(0, 110, 255);
+}
+
+.link {
+   padding: .5em;
+   margin: 0px;
+}
